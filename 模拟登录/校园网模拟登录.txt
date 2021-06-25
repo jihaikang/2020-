@@ -1,0 +1,5 @@
+import requests
+
+data = ''
+url = ''
+point = request.get(url= url,data)

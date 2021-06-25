@@ -1,0 +1,2 @@
+import jhk_01_九九乘法表
+jhk_01_九九乘法表.multiple_table()
